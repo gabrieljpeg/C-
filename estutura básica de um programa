@@ -1,0 +1,25 @@
+#include <iostream>
+faz a inclusão de bibliotecas
+
+using namespace std;
+define todas as funções da biblioteca padrão
+
+int 
+função principal, retorno de valor inteiro
+
+void
+função principal, retorna o valor nulo
+
+int main(){
+
+	return 0;
+}
+
+cout << "olá, mundo!"; 
+imprime conteúdo na tela
+
+system("pause");
+espera que pressione uma tecla para o programa continuar 
+
+endl ou \n
+quebra de linha
